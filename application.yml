@@ -25,4 +25,4 @@ management:
       exposure:
         include: "*"
         
-msg: 'Welcome from cloud configuration.'
+msg: 'Welcome from cloud configuration - default env.'
